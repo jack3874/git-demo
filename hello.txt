@@ -15,3 +15,7 @@ hello liushujie! hello git!
 hello liushujie! hello git!
 hello liushujie! hello git! master test
 hello liushujie! hello git! hot-fox test
+<<<<<<< HEAD
+=======
+1111111111111111111111111
+>>>>>>> 9b896b72c66d15f6fdd7eda1a01149ef76051c66
