@@ -17,4 +17,8 @@ hello liushujie! hello git! master test
 hello liushujie! hello git! hot-fox test
 1111111111111111111111111
 2222222222222222222222222 by lhc
+<<<<<<< HEAD
 
+=======
+3333333333333333333333333 by dongfang
+>>>>>>> 26b782adb4fa5f26cb4f5a6ca558f9ef70d2e5b0
