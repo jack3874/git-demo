@@ -13,8 +13,5 @@ hello liushujie! hello git!
 hello liushujie! hello git!
 hello liushujie! hello git!
 hello liushujie! hello git!
-<<<<<<< HEAD
 hello liushujie! hello git! master test
-=======
 hello liushujie! hello git! hot-fox test
->>>>>>> hot-fox
